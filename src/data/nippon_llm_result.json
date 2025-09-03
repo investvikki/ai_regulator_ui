@@ -1,0 +1,217 @@
+{
+    "steps": {
+        "security_name": "TBD",
+        "document": "nippon_demo.PDF",
+        "steps": [
+            {
+                "step": 1,
+                "name": "Explicit Eligibility Statement",
+                "verdict": "Ambiguous",
+                "details": "The document does not explicitly state whether ERISA plans can or cannot invest in the security, but it discusses potential implications and considerations for ERISA investors.",
+                "evidences": [
+                    {
+                        "pageNumber": 60,
+                        "evidence": "Our units may be deemed to constitute 'plan assets' for ERISA purposes, which may lead to the rescission of certain of our transactions, tax or fiduciary liability and our being held in violation of certain ERISA requirements."
+                    },
+                    {
+                        "pageNumber": 61,
+                        "evidence": "ERISA and Section 4975 of the Code impose certain duties upon fiduciaries of Benefit Plan Investors with respect to the decision to invest in new units including the duty to act prudently, to avoid conflicts of interest, and otherwise to not engage in prohibited transactions described in ERISA and Section 4975 of the Code."
+                    },
+                    {
+                        "pageNumber": 210,
+                        "evidence": "ERISA and the ERISA Plan Asset Regulation generally provide that when a 'benefit plan investor' within the meaning of the ERISA Plan Asset Regulation acquires an equity interest in an entity that is neither a 'publicly-offered security' nor a security issued by an investment company registered under the U.S. Investment Company Act of 1940, as amended, the assets of the Benefit Plan Investor include both the equity interest and an undivided interest in each of the underlying assets of the entity."
+                    }
+                ]
+            },
+            {
+                "step": 2,
+                "name": "Plan Asset Regulation Applicability",
+                "verdict": "Positive",
+                "details": "The document discusses the possibility that investments by ERISA plans could result in the issuer's assets being considered 'plan assets' under DOL regulations.",
+                "evidences": [
+                    {
+                        "pageNumber": 60,
+                        "evidence": "Our units may be deemed to constitute 'plan assets' for ERISA purposes, which may lead to the rescission of certain of our transactions, tax or fiduciary liability and our being held in violation of certain ERISA requirements."
+                    },
+                    {
+                        "pageNumber": 210,
+                        "evidence": "ERISA Plan Asset Consequences If our assets are deemed to constitute 'plan assets' of any Benefit Plan Investor, certain transactions that we might enter into, or may have entered into, in the ordinary course of our business might constitute non-exempt 'prohibited transactions' under Section 406 of ERISA or Section 4975 of the Code."
+                    },
+                    {
+                        "pageNumber": 210,
+                        "evidence": "ERISA and the ERISA Plan Asset Regulation generally provide that when a 'benefit plan investor' within the meaning of the ERISA Plan Asset Regulation acquires an equity interest in an entity that is neither a 'publicly-offered security' nor a security issued by an investment company registered under the U.S. Investment Company Act of 1940, as amended, the assets of the Benefit Plan Investor include both the equity interest and an undivided interest in each of the underlying assets of the entity."
+                    }
+                ]
+            },
+            {
+                "step": 3,
+                "name": "25% Benefit Plan Investor Limitation",
+                "verdict": "Positive",
+                "details": "The document mentions a restriction that less than 25% of the total value of each class of equity interests in the entity should be held by Benefit Plan Investors to avoid the entity's assets being considered plan assets.",
+                "evidences": [
+                    {
+                        "pageNumber": 210,
+                        "evidence": "the assets of the Benefit Plan Investor include both the equity interest and an undivided interest in each of the underlying assets of the entity unless it is established either that less than 25% of the total value of each class of equity interests in the entity is held by Benefit Plan Investors"
+                    },
+                    {
+                        "pageNumber": 61,
+                        "evidence": "an entity of which 25% or more of the total value of any class of equity interests is held by 'benefit plan investors' within the meaning of the ERISA Plan Asset Regulation and which does not satisfy another exception under the ERISA Plan Asset Regulation"
+                    }
+                ]
+            },
+            {
+                "step": 4,
+                "name": "Operating Company Exception",
+                "verdict": "Negative",
+                "details": "The document does not claim that the issuer qualifies as an Operating Company, Venture Capital Operating Company (VCOC), or Real Estate Operating Company (REOC) under ERISA. Instead, it expresses uncertainty about qualifying for these exceptions.",
+                "evidences": [
+                    {
+                        "pageNumber": 60,
+                        "evidence": "It is not clear that we would qualify for one of the exceptions to the regulations promulgated by the U.S. Department of Labor under the U.S. Employee Retirement Income Security Act of 1974, as amended, or 'ERISA'."
+                    },
+                    {
+                        "pageNumber": 61,
+                        "evidence": "Furthermore, because the international units will be publicly traded in Japan, we will be unable to ensure that we qualify for the exception to the ERISA Plan Asset Regulation that would exist if less than 25% of the total value of each class of our units were held by Benefit Plan Investors."
+                    },
+                    {
+                        "pageNumber": 210,
+                        "evidence": "an 'operating company' or 'real estate operating company' as defined in the ERISA Plan Asset Regulation."
+                    }
+                ]
+            },
+            {
+                "step": 5,
+                "name": "Security Type",
+                "verdict": "Positive",
+                "details": "The security being offered is an equity interest in a closed-end J-REIT, structured under Japanese law and subject to the rules of the Investment Trusts Association, Japan.",
+                "evidences": [
+                    {
+                        "pageNumber": 61,
+                        "evidence": "Because we are a closed-end J-REIT, our unit holders cannot require that we redeem their units, except in the event of liquidation."
+                    },
+                    {
+                        "pageNumber": 188,
+                        "evidence": "J-REITs must comply with the J-REIT rules of the Investment Trusts Association, Japan, which is a self-regulatory organization of asset management companies and security firms registered under the FIEA."
+                    },
+                    {
+                        "pageNumber": 92,
+                        "evidence": "we are required to distribute more than 90% of all of our distributable profit, calculated in accordance with the Special Taxation Measures Act, for each fiscal period to our unit holders."
+                    }
+                ]
+            },
+            {
+                "step": 6,
+                "name": "Restrictions or Representations",
+                "verdict": "Positive",
+                "details": "There are specific restrictions, disclaimers, and representations that apply to ERISA plans investing in this security, including fiduciary responsibilities and prohibitions on certain transactions.",
+                "evidences": [
+                    {
+                        "pageNumber": 60,
+                        "evidence": "Our units may be deemed to constitute 'plan assets' for ERISA purposes, which may lead to the rescission of certain of our transactions, tax or fiduciary liability and our being held in violation of certain ERISA requirements."
+                    },
+                    {
+                        "pageNumber": 211,
+                        "evidence": "Any purchaser or holder of the new units or any interest therein will be deemed to have represented by its purchase and holding of the new units or any interest therein that it either (i) is not, and is not acquiring or holding any units with the assets of, any Plan or (ii) the purchase and holding of the new units will not constitute a non-exempt prohibited transaction under ERISA or Section 4975 of the Code or a similar violation under any applicable Similar Law."
+                    },
+                    {
+                        "pageNumber": 61,
+                        "evidence": "ERISA and Section 4975 of the Code impose certain duties upon fiduciaries of Benefit Plan Investors with respect to the decision to invest in new units including the duty to act prudently, to avoid conflicts of interest, and otherwise to not engage in prohibited transactions described in ERISA and Section 4975 of the Code."
+                    }
+                ]
+            },
+            {
+                "step": 7,
+                "name": "Use of Proceeds",
+                "verdict": "Ambiguous",
+                "details": "The context does not provide specific information on how the issuer plans to use the proceeds from the offering or the types of underlying assets involved.",
+                "evidences": [
+                    {
+                        "pageNumber": 179,
+                        "evidence": "In accordance with the consistency principle of accounting, we do not plan to change the asset evaluation methods and standards delineated above."
+                    },
+                    {
+                        "pageNumber": 165,
+                        "evidence": "Net asset value per unit, based on the book values of our assets, will be calculated by subtracting our total liabilities from our total assets and dividing the result by our total outstanding units."
+                    },
+                    {
+                        "pageNumber": 177,
+                        "evidence": "Financial assets and liabilities of anonymous associations will be evaluated following generally accepted accounting principles and other common corporate accounting practices."
+                    }
+                ]
+            },
+            {
+                "step": 8,
+                "name": "Conflicts of Interest",
+                "verdict": "Positive",
+                "details": "The document discloses potential conflicts of interest involving fiduciary roles and related-party transactions, particularly in the context of ERISA requirements.",
+                "evidences": [
+                    {
+                        "pageNumber": 61,
+                        "evidence": "ERISA and Section 4975 of the Code impose certain duties upon fiduciaries of Benefit Plan Investors with respect to the decision to invest in new units including the duty to act prudently, to avoid conflicts of interest, and otherwise to not engage in prohibited transactions described in ERISA and Section 4975 of the Code."
+                    },
+                    {
+                        "pageNumber": 138,
+                        "evidence": "conded or transferred to the Asset Manager) are not allowed to participate in the Investment Committee’s review of related-party transactions."
+                    },
+                    {
+                        "pageNumber": 144,
+                        "evidence": "In order to prevent conflicts of interest, the Asset Manager shall comply with relevant laws and regulations for all transactions, including with parties other than related parties, and shall not conduct its business in a way which causes conflicts of interest or which undermines our interest when conducting transactions with related parties."
+                    }
+                ]
+            },
+            {
+                "step": 9,
+                "name": "Fiduciary Disclaimer",
+                "verdict": "Negative",
+                "details": "The issuer does not disclaim fiduciary responsibility with respect to ERISA plan investors. Instead, it acknowledges potential fiduciary roles and liabilities under ERISA.",
+                "evidences": [
+                    {
+                        "pageNumber": 61,
+                        "evidence": "our management, as well as various providers of fiduciary or other services to us (including the Asset Manager), and any other parties with authority or control with respect to us, may be considered fiduciaries or otherwise parties in interest or disqualified persons for ERISA purposes"
+                    },
+                    {
+                        "pageNumber": 210,
+                        "evidence": "parties with authority or control with respect to us, may be considered fiduciaries under ERISA and Section 4975 of the Code, or otherwise 'parties in interest' under ERISA or 'disqualified persons' under the Code by virtue of their provision of such services"
+                    }
+                ]
+            },
+            {
+                "step": 10,
+                "name": "Legal Counsel Opinion",
+                "verdict": "Not Present",
+                "details": "The document does not contain a formal legal opinion or legal counsel analysis regarding ERISA eligibility, plan asset status, or compliance considerations. It only discusses potential implications and considerations related to ERISA.",
+                "evidences": [
+                    {
+                        "pageNumber": 60,
+                        "evidence": "It is not clear that we would qualify for one of the exceptions to the regulations promulgated by the U.S. Department of Labor under the U.S. Employee Retirement Income Security Act of 1974, as amended, or 'ERISA'."
+                    },
+                    {
+                        "pageNumber": 61,
+                        "evidence": "Without regard to whether our assets are deemed to constitute 'plan assets' under the ERISA Plan Asset Regulation, ERISA and Section 4975 of the Code impose certain duties upon fiduciaries of Benefit Plan Investors."
+                    },
+                    {
+                        "pageNumber": 210,
+                        "evidence": "ERISA and the ERISA Plan Asset Regulation generally provide that when a 'benefit plan investor' within the meaning of the ERISA Plan Asset Regulation acquires an equity interest in an entity that is neither a 'publicly-offered security' nor a security issued by an investment company registered under the U.S. Investment Company Act of 1940, as amended, the assets of the Benefit Plan Investor include both the equity interest and an undivided interest in each of the underlying assets of the entity."
+                    }
+                ]
+            },
+            {
+                "step": 11,
+                "name": "Permissive ERISA Representation Language",
+                "verdict": "Not Present",
+                "details": "The document does not include language that explicitly allows ERISA plan investment through compliance ensured by a plan fiduciary under an exemption like PTE 84-14.",
+                "evidences": [
+                    {
+                        "pageNumber": 60,
+                        "evidence": "Our units may be deemed to constitute “plan assets” for ERISA purposes, which may lead to the rescission of certain of our transactions, tax or fiduciary liability and our being held"
+                    },
+                    {
+                        "pageNumber": 61,
+                        "evidence": "because the international units will be publicly traded in Japan, we will be unable to ensure that we qualify for the exception to the ERISA Plan Asset Regulation that would exist if less than 25% of the total value of each class of our units were held by Benefit Plan Investors"
+                    }
+                ]
+            }
+        ]
+    },
+    "summary": "---\n**Overall ERISA Eligibility Assessment:**\n\nThe ERISA eligibility assessment for the security in question reveals several critical considerations and potential risk areas. The document does not provide an explicit statement regarding ERISA eligibility, leaving the status ambiguous. The potential for the security's assets to be considered \"plan assets\" under ERISA is a significant concern, as it could lead to prohibited transactions and fiduciary liabilities. The document positively identifies the applicability of the Plan Asset Regulation and the 25% Benefit Plan Investor Limitation, which are crucial for determining whether the entity's assets are considered plan assets. However, the issuer does not qualify for the Operating Company Exception, which could have provided a safe harbor from plan asset status.\n\nThe security is a closed-end J-REIT, which is generally structured under Japanese law, and there are specific restrictions and fiduciary responsibilities outlined for ERISA plans investing in this security. The document also highlights potential conflicts of interest and fiduciary roles, which are critical under ERISA. However, the absence of a legal counsel opinion and permissive ERISA representation language further complicates the eligibility assessment. The use of proceeds remains ambiguous, adding another layer of uncertainty.\n\n---\n**Conclusion:**\n\nThe security is ERISA-ineligible. The lack of an explicit eligibility statement, combined with the potential for the security's assets to be deemed plan assets and the absence of a qualifying Operating Company Exception, presents significant compliance risks under ERISA. Additionally, the absence of a legal counsel opinion and permissive ERISA representation language further supports the conclusion that the security does not meet the necessary criteria for ERISA eligibility."
+}

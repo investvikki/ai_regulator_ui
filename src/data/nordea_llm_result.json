@@ -1,0 +1,205 @@
+{
+    "steps": {
+        "security_name": "TBD",
+        "document": "Nordea GMTN Programme - Programme Document dated 30 August 2024.pdf",
+        "steps": [
+            {
+                "step": 1,
+                "name": "Explicit Eligibility Statement",
+                "verdict": "Ambiguous",
+                "details": "The document does not explicitly state whether ERISA plans can or cannot invest in the security, but it emphasizes the need for compliance with ERISA and the necessity of consulting legal advisors.",
+                "evidences": [
+                    {
+                        "pageNumber": 178,
+                        "evidence": "definitive notes in registered form (“Definitive Registered Notes”); or (ii) one or more unrestricted global notes (“Regulation S Global Registered Note(s)”) in the case of Registered Notes sold outside the United States to non-U.S. persons in reliance on Regulation S (“Regulation S Registered Notes”) and/or one or more restricted global notes (“Rule 144A Global Registered Note(s)”) in the case of Registered Notes sold to QIBs in reliance on Rule 144A (“Rule 144A Registered Notes”),"
+                    },
+                    {
+                        "pageNumber": 341,
+                        "evidence": "Each purchaser or transferee that is a Plan shall be deemed to represent, warrant and agree that (i) none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any Plan Fiduciary in connection with its decision to invest in the Notes."
+                    },
+                    {
+                        "pageNumber": 357,
+                        "evidence": "THE PRECEDING DISCUSSION IS ONLY A SUMMARY OF CERTAIN ERISA IMPLICATIONS OF AN INVESTMENT IN THE NOTES AND DOES NOT PURPORT TO BE COMPLETE. PROSPECTIVE INVESTORS SHOULD CONSULT WITH THEIR OWN LEGAL, TAX, FINANCIAL AND OTHER ADVISORS PRIOR TO INVESTING IN THE NOTES TO REVIEW THESE IMPLICATIONS IN LIGHT OF SUCH INVESTOR’S PARTICULAR CIRCUMSTANCES."
+                    }
+                ]
+            },
+            {
+                "step": 2,
+                "name": "Plan Asset Regulation Applicability",
+                "verdict": "Ambiguous",
+                "details": "The document discusses ERISA considerations and prohibited transactions but does not explicitly address whether investments by ERISA plans result in the issuer being considered as holding 'plan assets' under DOL regulations.",
+                "evidences": [
+                    {
+                        "pageNumber": 341,
+                        "evidence": "Each purchaser or transferee that is a Plan shall be deemed to represent, warrant and agree that (i) none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any Plan Fiduciary in connection with its decision to invest in the Notes, and they are not otherwise acting as a fiduciary, as defined in Section 3(21) of ERISA or Section 4975(e)(3) of the Code, to the Plan or the Plan Fiduciary in connection with the Plan’s acquisition of the Notes."
+                    },
+                    {
+                        "pageNumber": 340,
+                        "evidence": "a prohibited transaction under Section 406 of the U.S. Employee Retirement Income Security Act of 1974, as amended ('ERISA'), or Section 4975 of the Code (or in a violation of any Similar Law or other applicable law) unless an exemption is available (and all conditions have been satisfied) or (B) a similar violation under any applicable Similar Laws."
+                    }
+                ]
+            },
+            {
+                "step": 3,
+                "name": "25% Benefit Plan Investor Limitation",
+                "verdict": "Not Mentioned",
+                "details": "The document does not mention any specific restriction or limitation on benefit plan investor ownership, such as a less than 25% threshold.",
+                "evidences": [
+                    {
+                        "pageNumber": 340,
+                        "evidence": "a prohibited transaction under Section 406 of the U.S. Employee Retirement Income Security Act of 1974, as amended (“ERISA”), or Section 4975 of the Code (or in a violation of any Similar Law or other applicable law) unless an exemption is available (and all conditions have been satisfied) or (B) a similar violation under any applicable Similar Laws."
+                    },
+                    {
+                        "pageNumber": 341,
+                        "evidence": "Each purchaser or transferee that is a Plan shall be deemed to represent, warrant and agree that (i) none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any Plan Fiduciary in connection with its decision to invest in the Notes, and they are not otherwise acting as a fiduciary, as defined in Section 3(21) of ERISA or Section 4975(e)(3) of the Code, to the Plan or the Plan Fiduciary in connection with the Plan’s acquisition of the Notes (unless a statutory or administrative exemption applies (all of the applicable conditions of which are satisfied) or"
+                    },
+                    {
+                        "pageNumber": 356,
+                        "evidence": "A party in interest or disqualified person who engages in a prohibited transaction may be subject to excise taxes and other penalties and liabilities under ERISA and Section 4975 of the Code."
+                    }
+                ]
+            },
+            {
+                "step": 4,
+                "name": "Operating Company Exception",
+                "verdict": "Positive",
+                "details": "The document claims that the issuer considers itself to qualify as an 'operating company' under ERISA.",
+                "evidences": [
+                    {
+                        "pageNumber": 356,
+                        "evidence": "The Issuer considers itself to qualify, and intends to operate so as to continue to qualify, as an 'operating company' under ERISA, although no assurances are provided that such determination will be respected or the qualification might not change based on the Issuer’s then-current activities."
+                    }
+                ]
+            },
+            {
+                "step": 5,
+                "name": "Security Type",
+                "verdict": "Ambiguous",
+                "details": "The context does not provide explicit information about a specific security being offered or the legal framework under which it is structured or registered.",
+                "evidences": [
+                    {
+                        "pageNumber": 126,
+                        "evidence": "h as listed shares, listed bonds and other specific securities;"
+                    },
+                    {
+                        "pageNumber": 173,
+                        "evidence": "the directive also includes extensive powers to write down share capital as well as to write down and/or convert outstanding debt into equity in the bank."
+                    },
+                    {
+                        "pageNumber": 103,
+                        "evidence": "The Nordea Group uses the Advanced IRB approach to calculate own funds requirements for banking and mortgage exposures towards retail customers in the Nordic countries as well as in Nordea Finance Finland."
+                    }
+                ]
+            },
+            {
+                "step": 6,
+                "name": "Restrictions or Representations",
+                "verdict": "Positive",
+                "details": "There are specific restrictions and representations for ERISA plans investing in this security, including prohibitions on certain transactions and disclaimers about fiduciary responsibilities.",
+                "evidences": [
+                    {
+                        "pageNumber": 356,
+                        "evidence": "ERISA imposes certain requirements on 'employee benefit plans' (as defined in ERISA) subject to Title I of ERISA, including entities such as collective investment funds and separate accounts whose underlying assets include the assets of such plans (collectively, 'ERISA Plans') and on those persons who are fiduciaries with respect to ERISA Plans."
+                    },
+                    {
+                        "pageNumber": 340,
+                        "evidence": "Each purchaser or transferee that is a Plan shall be deemed to represent, warrant and agree that (i) none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any Plan Fiduciary (as defined below) in connection with its decision to invest in the Notes, and they are not otherwise acting as a fiduciary, as defined in Section 3(21) of ERISA or Section 4975(e)(3) of the Code, to the Plan or the Plan Fiduciary in connection with the Plan’s acquisition of the Notes."
+                    },
+                    {
+                        "pageNumber": 341,
+                        "evidence": "Each purchaser or transferee that is a Plan shall be deemed to represent, warrant and agree that (i) none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any Plan Fiduciary in connection with its decision to invest in the Notes, and they are not otherwise acting as a fiduciary, as defined in Section 3(21) of ERISA or Section 4975(e)(3) of the Code, to the Plan or the Plan Fiduciary in connection with the Plan’s acquisition of the Notes (unless a statutory or administrative exemption applies (all of the applicable conditions of which are satisfied)."
+                    }
+                ]
+            },
+            {
+                "step": 7,
+                "name": "Use of Proceeds",
+                "verdict": "Ambiguous",
+                "details": "The issuer intends to allocate the net proceeds to Green Assets or SLL Funding Assets but there is no contractual obligation to do so, and the availability or implementation of such assets is not assured.",
+                "evidences": [
+                    {
+                        "pageNumber": 14,
+                        "evidence": "While it is the intention of the Issuer to allocate an amount equal to the net proceeds of the issue of any Green Notes to Green Assets or the net proceeds of the issue of any SLL Notes to SLL Funding Assets, as applicable, and to report on the use of proceeds as described in the section entitled 'Use of Proceeds' and/or in the applicable Pricing Supplement, there is no contractual obligation to do so."
+                    },
+                    {
+                        "pageNumber": 14,
+                        "evidence": "There can be no assurance that any such Green Assets or SLL Funding Assets, as applicable, will be available or capable of being implemented in, or substantially in, the manner anticipated and/or within any time frame and, accordingly, that the Issuer will be able to use an amount equal to the net proceeds of the issue of such Green Notes or SLL Notes towards, directly or indirectly, the allocation of funding for such Green Assets or SLL Funding."
+                    }
+                ]
+            },
+            {
+                "step": 8,
+                "name": "Conflicts of Interest",
+                "verdict": "Positive",
+                "details": "The document discloses potential conflicts of interest involving fiduciary roles and related-party transactions under ERISA, highlighting the roles of the Issuer, Arranger, Dealers, and their affiliates as parties in interest or disqualified persons.",
+                "evidences": [
+                    {
+                        "pageNumber": 340,
+                        "evidence": "none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any Plan Fiduciary"
+                    },
+                    {
+                        "pageNumber": 356,
+                        "evidence": "Each of the Issuer, the Arranger, the Dealers, the Calculation Agent, the Fiscal Agent, the Registrar and the Transfer Agent, directly or through their affiliates, may be a party in interest with respect to Plans."
+                    },
+                    {
+                        "pageNumber": 356,
+                        "evidence": "A party in interest or disqualified person who engages in a prohibited transaction may be subject to excise taxes and other penalties and liabilities under ERISA and Section 4975 of the Code."
+                    }
+                ]
+            },
+            {
+                "step": 9,
+                "name": "Fiduciary Disclaimer",
+                "verdict": "Positive",
+                "details": "The issuer disclaims any fiduciary responsibility with respect to ERISA plan investors, stating that they do not provide investment advice or act as a fiduciary.",
+                "evidences": [
+                    {
+                        "pageNumber": 357,
+                        "evidence": "none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any fiduciary or other person investing the assets of the Plan"
+                    },
+                    {
+                        "pageNumber": 340,
+                        "evidence": "they are not otherwise acting as a fiduciary, as defined in Section 3(21) of ERISA or Section 4975(e)(3) of the Code, to the Plan or the Plan Fiduciary in connection with the Plan’s acquisition of the Notes"
+                    }
+                ]
+            },
+            {
+                "step": 10,
+                "name": "Legal Counsel Opinion",
+                "verdict": "Negative",
+                "details": "The document does not contain a formal legal opinion or legal counsel analysis discussing ERISA eligibility, plan asset status, or compliance considerations. It only outlines certain ERISA considerations and representations required from purchasers or transferees.",
+                "evidences": [
+                    {
+                        "pageNumber": 341,
+                        "evidence": "Each purchaser or transferee that is a Plan shall be deemed to represent, warrant and agree that (i) none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any Plan Fiduciary in connection with its decision to invest in the Notes."
+                    },
+                    {
+                        "pageNumber": 340,
+                        "evidence": "a prohibited transaction under Section 406 of the U.S. Employee Retirement Income Security Act of 1974, as amended (“ERISA”), or Section 4975 of the Code (or in a violation of any Similar Law or other applicable law) unless an exemption is available (and all conditions have been satisfied) or (B) a similar violation under any applicable Similar Laws."
+                    },
+                    {
+                        "pageNumber": 356,
+                        "evidence": "ERISA imposes certain requirements on “employee benefit plans” (as defined in ERISA) subject to Title I of ERISA, including entities such as collective investment funds and separate accounts whose underlying assets include the assets of such plans (collectively, “ERISA Plans”) and on those persons who are fiduciaries with respect to ERISA Plans."
+                    }
+                ]
+            },
+            {
+                "step": 11,
+                "name": "Permissive ERISA Representation Language",
+                "verdict": "Permissive",
+                "details": "The document includes language that allows ERISA plan investment if the plan fiduciary ensures compliance through an exemption, such as PTE 84-14.",
+                "evidences": [
+                    {
+                        "pageNumber": 356,
+                        "evidence": "Certain statutory or administrative exemptions may provide such relief to the purchase and holding of the Notes by a Plan, including: Prohibited Transaction Class Exemption ('PTCE') 84-14 (certain transactions determined by an independent qualified professional asset manager)."
+                    },
+                    {
+                        "pageNumber": 340,
+                        "evidence": "a prohibited transaction under Section 406 of the U.S. Employee Retirement Income Security Act of 1974, as amended ('ERISA'), or Section 4975 of the Code (or in a violation of any Similar Law or other applicable law) unless an exemption is available (and all conditions have been satisfied)."
+                    }
+                ]
+            }
+        ]
+    },
+    "summary": "---\n**Overall ERISA Eligibility Assessment:**\n\nThe ERISA eligibility assessment for the security in question, as outlined in the Nordea GMTN Programme document, presents a complex and somewhat ambiguous picture. Key points include:\n\n1. **Explicit Eligibility Statement**: The document does not clearly state whether ERISA plans can invest in the security, emphasizing the need for legal consultation. This lack of clarity introduces uncertainty regarding explicit eligibility.\n\n2. **Plan Asset Regulation Applicability**: The document discusses ERISA considerations but does not definitively address whether investments by ERISA plans would result in the issuer being considered as holding \"plan assets\" under DOL regulations, leaving this aspect ambiguous.\n\n3. **25% Benefit Plan Investor Limitation**: There is no mention of a specific restriction on benefit plan investor ownership, such as a less than 25% threshold, which is a common consideration for ERISA eligibility.\n\n4. **Operating Company Exception**: The issuer claims to qualify as an \"operating company\" under ERISA, which could exempt it from certain ERISA plan asset rules, although this is not guaranteed.\n\n5. **Security Type**: The document does not provide explicit information about the specific security being offered, adding to the ambiguity regarding its ERISA eligibility.\n\n6. **Restrictions or Representations**: There are specific restrictions and representations for ERISA plans, including prohibitions on certain transactions and disclaimers about fiduciary responsibilities, which could impact eligibility.\n\n7. **Use of Proceeds**: The intended use of proceeds for Green Assets or SLL Funding Assets is not contractually obligated, adding uncertainty to the investment's alignment with ERISA requirements.\n\n8. **Conflicts of Interest and Fiduciary Disclaimer**: The document discloses potential conflicts of interest and disclaims fiduciary responsibility, which are important considerations for ERISA compliance.\n\n9. **Legal Counsel Opinion**: The absence of a formal legal opinion or analysis on ERISA eligibility and compliance considerations is a significant gap.\n\n10. **Permissive ERISA Representation Language**: The document includes language that allows ERISA plan investment if compliance is ensured through an exemption, such as PTE 84-14, providing a potential pathway for eligibility.\n\nOverall, the document presents several areas of ambiguity and potential risk, particularly due to the lack of explicit statements and formal legal opinions on ERISA eligibility.\n\n---\n**Conclusion:**\n\nThe security's ERISA eligibility is Ambiguous. The document lacks explicit statements regarding ERISA plan investment, does not address plan asset status definitively, and omits a formal legal opinion. While there are pathways for compliance through exemptions, the overall lack of clarity and formal guidance leaves the eligibility uncertain. Prospective ERISA plan investors should seek detailed legal advice to navigate these complexities."
+}
