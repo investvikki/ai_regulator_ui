@@ -92,7 +92,7 @@ const UploadPanel = ({ onEvaluate, isLoading, error }) => {
         >
           <option value="" disabled>Select Regulatory Framework</option>
           <option value="ERISA">ERISA</option>
-          <option value="GDPR">GDPR</option>
+          <option value="MIFID II">MIFID II</option>
           <option value="HIPAA">HIPAA</option>
         </select>
         <div className="absolute inset-y-0 right-0 flex items-center px-2 pointer-events-none">

@@ -189,23 +189,35 @@ const EvaluationPanel = ({ data, onOpenPDF }) => {
           <div className="flex flex-wrap gap-2 flex-1 mr-4">
             <button
               onClick={() => setActiveSection('final-decision')}
-              className={`px-4 py-2 rounded-lg transition-colors whitespace-nowrap ${activeSection === 'final-decision'
-                  ? 'bg-blue-100 text-blue-800'
-                  : 'text-gray-600 hover:bg-gray-100'
-                }`}
+              className={`px-4 py-2 rounded-lg transition-all flex items-center gap-2 cursor-pointer
+                hover:shadow-md hover:scale-102 ${
+                activeSection === 'final-decision'
+                  ? 'bg-blue-100 text-blue-800 border-2 border-blue-300'
+                  : 'text-gray-600 hover:bg-gray-100 border border-gray-200'
+              }`}
             >
-              Final Decision
+              <span className="text-lg">📊</span>
+              <div className="flex flex-col items-start">
+                <span className="font-medium">Final Decision</span>
+                <span className="text-xs text-gray-500">Analysis Summary</span>
+              </div>
             </button>
             {data.rules.map((rule, index) => (
               <button
                 key={index}
                 onClick={() => setActiveSection(`rule-${index}`)}
-                className={`px-4 py-2 rounded-lg transition-colors whitespace-nowrap ${activeSection === `rule-${index}`
-                    ? 'bg-blue-100 text-blue-800'
-                    : 'text-gray-600 hover:bg-gray-100'
-                  }`}
+                className={`px-4 py-2 rounded-lg transition-all flex items-center gap-2 cursor-pointer
+                  hover:shadow-md hover:scale-102 ${
+                  activeSection === `rule-${index}`
+                    ? 'bg-blue-100 text-blue-800 border-2 border-blue-300'
+                    : 'text-gray-600 hover:bg-gray-100 border border-gray-200'
+                }`}
               >
-                {rule.ruleName}
+                <span className="text-lg">📋</span>
+                <div className="flex flex-col items-start">
+                  <span className="font-medium">Rule {index + 1}</span>
+                  <span className="text-xs text-gray-500">{rule.ruleName}</span>
+                </div>
               </button>
             ))}
           </div>
@@ -254,12 +266,16 @@ const EvaluationPanel = ({ data, onOpenPDF }) => {
                     <span className="font-medium text-gray-700 block mb-2">Supporting Rules</span>
                     <div className="flex flex-wrap gap-2">
                       {data.final_decision.supportingRules?.map((ruleNumber) => (
-                        <span
+                        <button
                           key={ruleNumber}
-                          className="px-3 py-1 bg-purple-100 text-purple-800 rounded-full text-sm font-medium border border-purple-200"
+                          onClick={() => setActiveSection(`rule-${ruleNumber - 1}`)}
+                          className="px-3 py-1 bg-purple-100 text-purple-800 rounded-full text-sm 
+                                   font-medium border border-purple-200 hover:bg-purple-200 
+                                   transition-colors cursor-pointer flex items-center gap-1"
                         >
+                          <span>📋</span>
                           Rule {ruleNumber}
-                        </span>
+                        </button>
                       ))}
                     </div>
                   </div>
