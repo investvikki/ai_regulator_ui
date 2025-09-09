@@ -1,273 +1,282 @@
 {
-    "rules": [
+  "rules": [
+    {
+      "ruleName": "ERISA Language",
+      "hasERISALanguage": true,
+      "evidence": [
         {
-            "ruleName":"Security Type",
-            "securityType": "Registered Notes",
-            "details": "The context describes various forms of Registered Notes, including Definitive Registered Notes, Regulation S Global Registered Notes, and Rule 144A Global Registered Notes. These notes are issued in registered form and are not exchangeable for Bearer Notes.",
-            "evidence": [
-                {
-                    "pageNumber": 178,
-                    "pageText": "definitive notes in registered form (“Definitive Registered Notes”); or (ii) one or more unrestricted global notes (“Regulation S Global Registered Note(s)”) in the case of Registered Notes sold outside the United States to non-U.S. persons in reliance on Regulation S (“Regulation S Registered Notes”) and/or one or more restricted global notes (“Rule 144A Global Registered Note(s)”) in the case of Registered Notes sold to QIBs in reliance on Rule 144A (“Rule 144A Registered Notes”),"
-                },
-                {
-                    "pageNumber": 198,
-                    "pageText": "Form of Registered Notes Notes issued in registered form (“Registered Notes”) will be in substantially the form (subject to amendment and completion) scheduled to the Agency Agreement. Registered Notes will not be exchangeable for Bearer Notes. The Registered Notes sold pursuant to Rule 144A under the United States Securities Act of 1933, as amended (the “Securities Act”) initially will be evidenced by one or more Notes in registered, global form without interest coupons (collectively, the “Rule 144A Global Registered Notes”)."
-                }
-            ]
+          "pageNumber": 356,
+          "pageText": "CERTAIN ERISA CONSIDERATIONS ERISA imposes certain requirements on “employee benefit plans” (as defined in ERISA) subject to Title I of ERISA, including entities such as collective investment funds and separate accounts whose underlying assets include the assets of such plans (collectively, “ERISA Plans”) and on those persons who are fiduciaries with respect to ERISA Plans. Section 406 of ERISA and Section 4975 of the Code, prohibit certain transactions involving the assets of an ERISA Plan (Section 4975 of the Code also imposes prohibitions for certain plans that are not subject to Title I of ERISA but which are subject to Section 4975 of the Code, such as individual retirement accounts (together with ERISA Plans, “Plans”)) and certain persons (referred to as “parties in interest” or “disqualified persons”) having certain relationships to such Plans,"
         },
         {
-            "ruleName":"ERISA Language",
-            "hasERISALanguage": true,
-            "evidence": [
-                {
-                    "pageNumber": 356,
-                    "pageText": "CERTAIN ERISA CONSIDERATIONS ERISA imposes certain requirements on “employee benefit plans” (as defined in ERISA) subject to Title I of ERISA, including entities such as collective investment funds and separate accounts whose underlying assets include the assets of such plans (collectively, “ERISA Plans”) and on those persons who are fiduciaries with respect to ERISA Plans. Section 406 of ERISA and Section 4975 of the Code, prohibit certain transactions involving the assets of an ERISA Plan (Section 4975 of the Code also imposes prohibitions for certain plans that are not subject to Title I of ERISA but which are subject to Section 4975 of the Code, such as individual retirement accounts (together with ERISA Plans, “Plans”)) and certain persons (referred to as “parties in interest” or “disqualified persons”) having certain relationships to such Plans,"
-                },
-                {
-                    "pageNumber": 340,
-                    "pageText": "Section 406 of the U.S. Employee Retirement Income Security Act of 1974, as amended (“ERISA”), or Section 4975 of the Code (or in a violation of any Similar Law or other applicable law) unless an exemption is available (and all conditions have been satisfied) or (B) a similar violation under any applicable Similar Laws. Each purchaser or transferee that is a Plan shall be deemed to represent, warrant and agree that (i) none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any Plan Fiduciary (as defined below) in connection with its decision to invest in the Notes, and they are not otherwise acting as a fiduciary, as defined in Section 3(21) of ERISA or Section 4975(e)(3) of the Code, to the Plan or the Plan Fiduciary in connection with"
-                },
-                {
-                    "pageNumber": 356,
-                    "pageText": "through” treatment under ERISA applies. There is an exception for an “operating company”, which includes a company primarily engaged directly or through majority-owned subsidiaries in the production or sale of products or services (other than the investment of capital). There is little guidance as to what activities constitute the “investment of capital” so as to cause a company to be ineligible to be treated as an “operating company”. The Issuer considers itself to qualify, and intends to operate so as to continue to qualify, as an “operating company” under ERISA, although no assurances are provided that such determination will be respected or the qualification might not change based on the Issuer’s then-current activities. In the unlikely event that “look-through” treatment under ERISA were to apply to the Issuer, ERISA Plan fiduciaries who decide to acquire the Notes could, under certain circumstances, be liable for prohibited transactions or other violations as"
-                },
-                {
-                    "pageNumber": 357,
-                    "pageText": "Each purchaser or transferee that is a Plan shall be deemed to represent, warrant and agree that (i) none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any fiduciary or other person investing the assets of the Plan (“Plan Fiduciary”) in connection with its decision to invest in the Notes, and they are not otherwise acting as a fiduciary, as defined in Section 3(21) of ERISA or Section 4975(e)(3) of the Code, to the Plan or the Plan Fiduciary in connection with the Plan’s acquisition of the Notes (unless a statutory or administrative exemption applies (all of the applicable conditions of which are satisfied) or the transaction is not otherwise prohibited); and (ii) the Plan Fiduciary is exercising its own independent judgment in evaluating the investment in the Notes."
-                },
-                {
-                    "pageNumber": 356,
-                    "pageText": "prohibited transaction rules under ERISA or Section 4975 of the Code. Certain statutory or administrative exemptions may provide such relief to the purchase and holding of the Notes by a Plan, including: Prohibited Transaction Class Exemption (“PTCE”) 84-14 (certain transactions determined by an independent qualified professional asset manager), PTCE 96-23 (certain transactions determined by an in-house professional asset manager), PTCE 91-38 (certain transactions involving bank collective investment funds), PTCE 90-1 (certain transactions involving insurance company pooled separate accounts) and PTCE 95-60 (certain transactions involving insurance company general accounts). In addition, Section 408(b)(17) of ERISA and Section 4975(d)(20) of the Code provide a limited exemption (the “service provider exemption”) for the purchase and sale of securities and related lending transactions by a Plan if, among other applicable"
-                },
-                {
-                    "pageNumber": 341,
-                    "pageText": "or Section 4975 of the Code (or in a violation of any Similar Law or other applicable law) unless an exemption is available (and all conditions have been satisfied) or (B) a similar violation under any applicable Similar Laws. Each purchaser or transferee that is a Plan shall be deemed to represent, warrant and agree that (i) none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any Plan Fiduciary in connection with its decision to invest in the Notes, and they are not otherwise acting as a fiduciary, as defined in Section 3(21) of ERISA or Section 4975(e)(3) of the Code, to the Plan or the Plan Fiduciary in connection with the Plan’s acquisition of the Notes (unless a statutory or administrative exemption applies (all of the applicable conditions"
-                }
-            ]
+          "pageNumber": 340,
+          "pageText": "Section 406 of the U.S. Employee Retirement Income Security Act of 1974, as amended (“ERISA”), or Section 4975 of the Code (or in a violation of any Similar Law or other applicable law) unless an exemption is available (and all conditions have been satisfied) or (B) a similar violation under any applicable Similar Laws. Each purchaser or transferee that is a Plan shall be deemed to represent, warrant and agree that (i) none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any Plan Fiduciary (as defined below) in connection with its decision to invest in the Notes, and they are not otherwise acting as a fiduciary, as defined in Section 3(21) of ERISA or Section 4975(e)(3) of the Code, to the Plan or the Plan Fiduciary in connection with"
         },
         {
-            "ruleName":"Plan Asset Exceptions",
-            "planAssetExceptionAvailable": true,
-            "exceptionsAvailable": [
-                "Operating Company Exception"
-            ],
-            "details": "The issuer considers itself to qualify as an 'operating company' under ERISA, which provides an exception to the 'look-through' treatment of plan assets. This exception is applicable as long as the issuer is primarily engaged in the production or sale of products or services, rather than the investment of capital.",
-            "evidence": [
-                {
-                    "pageNumber": 356,
-                    "pageText": "There is an exception for an 'operating company', which includes a company primarily engaged directly or through majority-owned subsidiaries in the production or sale of products or services (other than the investment of capital). The Issuer considers itself to qualify, and intends to operate so as to continue to qualify, as an 'operating company' under ERISA."
-                }
-            ]
+          "pageNumber": 356,
+          "pageText": "through” treatment under ERISA applies. There is an exception for an “operating company”, which includes a company primarily engaged directly or through majority-owned subsidiaries in the production or sale of products or services (other than the investment of capital). There is little guidance as to what activities constitute the “investment of capital” so as to cause a company to be ineligible to be treated as an “operating company”. The Issuer considers itself to qualify, and intends to operate so as to continue to qualify, as an “operating company” under ERISA, although no assurances are provided that such determination will be respected or the qualification might not change based on the Issuer’s then-current activities. In the unlikely event that “look-through” treatment under ERISA were to apply to the Issuer, ERISA Plan fiduciaries who decide to acquire the Notes could, under certain circumstances, be liable for prohibited transactions or other violations as"
         },
         {
-            "ruleName":"Contemplated Transactions",
-            "contemplatedTransactions": [
-                "issuance",
-                "resale",
-                "over-allotment",
-                "listing",
-                "trading",
-                "transfer restrictions"
-            ],
-            "transactionDetails": [
-                {
-                    "transaction": "issuance",
-                    "impact": "The issuance of Notes and Conversion Shares is planned, with specific conditions for their delivery and listing.",
-                    "evidence": [
-                        {
-                            "pageNumber": 282,
-                            "pageText": "Conversion Shares, as the case may be, will be admitted to listing and trading on the Relevant Stock Exchange."
-                        },
-                        {
-                            "pageNumber": 283,
-                            "pageText": "Prior to the date of the Automatic Conversion Settlement Notice, the Issuer shall appoint a placement agent (the “Settlement Shares Offer Agent”) acting on behalf, and for the account, of the Noteholders to conduct an offering of the Conversion Shares."
-                        }
-                    ]
-                },
-                {
-                    "transaction": "resale",
-                    "impact": "Resale of Notes is restricted to certain qualified buyers under specific regulations.",
-                    "evidence": [
-                        {
-                            "pageNumber": 340,
-                            "pageText": "It understands that such Notes and, in the case of Notes that are Additional Tier 1 Conversion Notes, any Conversion Shares to be delivered following the occurrence of a Trigger Event in respect of Additional Tier 1 Conversion Notes have not been and will not be registered under the Securities Act and that, prior to the expiration of the distribution compliance period, it will not reoffer, resell, pledge or otherwise transfer such Notes except (A) within the United States to a QIB in a transaction complying with Rule 144A or (B) outside the United States to a non-U.S. person, in compliance with Rule 903 or 904 of Regulation S."
-                        }
-                    ]
-                },
-                {
-                    "transaction": "over-allotment",
-                    "impact": "Dealers may over-allot Notes to support the market price.",
-                    "evidence": [
-                        {
-                            "pageNumber": 5,
-                            "pageText": "In connection with the issue of any Tranche (as defined herein), the Dealer or Dealers (if any) named as the stabilising manager(s) (the “Stabilising Manager(s)”) (or any person acting on behalf of any Stabilising Manager(s)) in the relevant Pricing Supplement may over-allot Notes or effect transactions with a view to supporting the market price of the Notes at a level higher than that which might otherwise prevail."
-                        }
-                    ]
-                },
-                {
-                    "transaction": "listing",
-                    "impact": "Conversion Shares will be listed on the Relevant Stock Exchange.",
-                    "evidence": [
-                        {
-                            "pageNumber": 282,
-                            "pageText": "Conversion Shares, as the case may be, will be admitted to listing and trading on the Relevant Stock Exchange."
-                        }
-                    ]
-                },
-                {
-                    "transaction": "trading",
-                    "impact": "Conversion Shares will be traded on the Relevant Stock Exchange.",
-                    "evidence": [
-                        {
-                            "pageNumber": 282,
-                            "pageText": "Conversion Shares, as the case may be, will be admitted to listing and trading on the Relevant Stock Exchange."
-                        }
-                    ]
-                },
-                {
-                    "transaction": "transfer restrictions",
-                    "impact": "There are specific restrictions on the transfer of Notes to ensure compliance with securities regulations.",
-                    "evidence": [
-                        {
-                            "pageNumber": 340,
-                            "pageText": "It agrees that it will deliver to each person to whom it transfers the Notes notice of any restrictions on transfer of"
-                        },
-                        {
-                            "pageNumber": 339,
-                            "pageText": "SO LONG AS THIS SECURITY IS ELIGIBLE FOR RESALE PURSUANT TO RULE 144A UNDER THE SECURITIES ACT (“RULE 144A”), TO A PERSON WHO THE SELLER REASONABLY BELIEVES IS A QUALIFIED INSTITUTIONAL BUYER (AS DEFINED IN RULE 144A) IN ACCORDANCE WITH RULE 144A, (2) IN AN OFFSHORE TRANSACTION TO A NON-U.S. PERSON IN ACCORDANCE WITH RULE 903 OR 904 OF REGULATION S UNDER THE SECURITIES ACT, (3) PURSUANT TO AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT PROVIDED BY RULE 144 UNDER"
-                        }
-                    ]
-                }
-            ]
+          "pageNumber": 357,
+          "pageText": "Each purchaser or transferee that is a Plan shall be deemed to represent, warrant and agree that (i) none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any fiduciary or other person investing the assets of the Plan (“Plan Fiduciary”) in connection with its decision to invest in the Notes, and they are not otherwise acting as a fiduciary, as defined in Section 3(21) of ERISA or Section 4975(e)(3) of the Code, to the Plan or the Plan Fiduciary in connection with the Plan’s acquisition of the Notes (unless a statutory or administrative exemption applies (all of the applicable conditions of which are satisfied) or the transaction is not otherwise prohibited); and (ii) the Plan Fiduciary is exercising its own independent judgment in evaluating the investment in the Notes."
         },
         {
-            "ruleName":"Prohibited Transaction Exemptions",
-            "hasProhibitedTransactionExemptions": true,
-            "prohibitedTransactionExemptions": [
-                "PTCE 84-14",
-                "PTCE 96-23",
-                "PTCE 91-38",
-                "PTCE 90-1",
-                "PTCE 95-60"
-            ],
-            "details": "The context mentions several Prohibited Transaction Class Exemptions (PTCEs) that may provide relief for certain transactions involving Plans, including PTCE 84-14, PTCE 96-23, PTCE 91-38, PTCE 90-1, and PTCE 95-60. These exemptions cover transactions determined by independent or in-house professional asset managers, bank collective investment funds, insurance company pooled separate accounts, and insurance company general accounts.",
-            "evidence": [
-                {
-                    "pageNumber": 356,
-                    "pageText": "prohibited transaction rules under ERISA or Section 4975 of the Code. Certain statutory or administrative exemptions may provide such relief to the purchase and holding of the Notes by a Plan, including: Prohibited Transaction Class Exemption (“PTCE”) 84-14 (certain transactions determined by an independent qualified professional asset manager), PTCE 96-23 (certain transactions determined by an in-house professional asset manager), PTCE 91-38 (certain transactions involving bank collective investment funds), PTCE 90-1 (certain transactions involving insurance company pooled separate accounts) and PTCE 95-60 (certain transactions involving insurance company general accounts)."
-                }
-            ]
+          "pageNumber": 356,
+          "pageText": "prohibited transaction rules under ERISA or Section 4975 of the Code. Certain statutory or administrative exemptions may provide such relief to the purchase and holding of the Notes by a Plan, including: Prohibited Transaction Class Exemption (“PTCE”) 84-14 (certain transactions determined by an independent qualified professional asset manager), PTCE 96-23 (certain transactions determined by an in-house professional asset manager), PTCE 91-38 (certain transactions involving bank collective investment funds), PTCE 90-1 (certain transactions involving insurance company pooled separate accounts) and PTCE 95-60 (certain transactions involving insurance company general accounts). In addition, Section 408(b)(17) of ERISA and Section 4975(d)(20) of the Code provide a limited exemption (the “service provider exemption”) for the purchase and sale of securities and related lending transactions by a Plan if, among other applicable"
         },
         {
-            "ruleName":"QIB Requirement",
-            "qibRequired": true,
-            "details": "The prospectus requires U.S. investors to be Qualified Institutional Buyers (QIBs) under Rule 144A for purchasing the Notes within the United States.",
-            "evidence": [
-                {
-                    "pageNumber": 2,
-                    "pageText": "The Notes may be offered for sale only (i) in the United States, to qualified institutional buyers (“QIBs”) within the meaning of, and in reliance on, Rule 144A under the Securities Act (“Rule 144A”) or another available exemption from, or in a transaction not subject to, the registration requirements of the Securities Act."
-                },
-                {
-                    "pageNumber": 4,
-                    "pageText": "Unless otherwise specified in any supplement to this Programme Document, each Series of Notes is initially being privately placed exclusively to persons reasonably believed by the Dealers to be QIBs within the meaning of Rule 144A or in other transactions exempt from registration in accordance with Regulation S."
-                },
-                {
-                    "pageNumber": 1,
-                    "pageText": "Confirmation of your representation: In order to be eligible to view the attached Programme Document or make an investment decision with respect to the securities being offered, prospective investors must be either (1) qualified institutional buyers (“QIBs”) (within the meaning of Rule 144A (“Rule 144A”) under the Securities Act) or (2) non-U.S. persons (as defined in Regulation S under the Securities Act (“Regulation S”)) located outside the United States."
-                }
-            ]
-        },
-        {
-            "ruleName":"Regulation D Requirement",
-            "accreditedInvestorRequired": false,
-            "details": null,
-            "evidence": []
-        },
-        {
-            "ruleName":"Domicile Restrictions",
-            "hasDomicileParticipationRestriction": true,
-            "restrictedDomiciles": [
-                "United States",
-                "United Kingdom",
-                "Ireland",
-                "Canada",
-                "EEA"
-            ],
-            "details": "The Notes are subject to various domicile and participation restrictions, including prohibitions on sales to U.S. persons, UK retail investors, and EEA retail investors, among others. Specific exemptions and conditions apply based on jurisdictional securities laws.",
-            "evidence": [
-                {
-                    "pageNumber": 2,
-                    "pageText": "Subject to certain exceptions, the Notes may not be offered or sold directly or indirectly within the United States or to or for the account or benefit of U.S. persons, as defined in Regulation S under the Securities Act (“Regulation S”)."
-                },
-                {
-                    "pageNumber": 4,
-                    "pageText": "no Notes may be offered or sold, directly or indirectly, and neither this Programme Document nor any advertisement or other offering material may be distributed or published in any jurisdiction, except under circumstances that will result in compliance with any applicable laws and regulations."
-                },
-                {
-                    "pageNumber": 22,
-                    "pageText": "In addition, there are certain restrictions on the offer, sale and transfer of the Notes in the United Kingdom and Ireland and such other restrictions as may be required in connection with the offer and sale of a particular Series of Notes."
-                },
-                {
-                    "pageNumber": 343,
-                    "pageText": "None of the Issuer, the Fiscal Agent and the Dealers represent that the Notes may at any time lawfully be sold in compliance with any applicable registration or other requirements in any jurisdiction, or pursuant to any exemption available thereunder."
-                },
-                {
-                    "pageNumber": 344,
-                    "pageText": "Notes in bearer form having a maturity of more than one year are subject to U.S. tax law requirements and may not be offered, sold or delivered within the United States or its possessions or to a United States person, except in certain transactions permitted by U.S. Treasury regulations."
-                },
-                {
-                    "pageNumber": 345,
-                    "pageText": "The Notes may be sold only to purchasers purchasing, or deemed to be purchasing, as principal that are accredited investors, as defined in National Instrument 45-106 Prospectus Exemptions or subsection 73.3(1) of the Securities Act (Ontario), and are permitted clients, as defined in National Instrument 31-103 Registration Requirements, Exemptions and Ongoing Registrant Obligations."
-                }
-            ]
-        },
-        {
-            "ruleName":"Domicile Prohibited",
-            "hasUnconditionalDomicileRestrictions": false,
-            "unconditionalRestrictedDomiciles": [],
-            "details": null,
-            "evidence": []
-        },
-        {
-            "ruleName":"Fiduciary Burden",
-            "hasFiduciaryBurden": true,
-            "details": "The prospectus places a fiduciary burden on investors by requiring them to ensure compliance with ERISA and similar laws, and to avoid prohibited transactions unless an exemption applies. Investors are deemed to represent and warrant that their investment does not result in a prohibited transaction under ERISA or similar laws, and they must exercise independent judgment in evaluating the investment.",
-            "evidence": [
-                {
-                    "pageNumber": 340,
-                    "pageText": "Each purchaser or transferee that is a Plan shall be deemed to represent, warrant and agree that (i) none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any Plan Fiduciary (as defined below) in connection with its decision to invest in the Notes, and they are not otherwise acting as a fiduciary, as defined in Section 3(21) of ERISA or Section 4975(e)(3) of the Code, to the Plan or the Plan Fiduciary in connection with"
-                },
-                {
-                    "pageNumber": 341,
-                    "pageText": "Each purchaser or transferee that is a Plan shall be deemed to represent, warrant and agree that (i) none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any Plan Fiduciary in connection with its decision to invest in the Notes, and they are not otherwise acting as a fiduciary, as defined in Section 3(21) of ERISA or Section 4975(e)(3) of the Code, to the Plan or the Plan Fiduciary in connection with the Plan’s acquisition of the Notes (unless a statutory or administrative exemption applies (all of the applicable conditions"
-                },
-                {
-                    "pageNumber": 357,
-                    "pageText": "Each purchaser or transferee that is a Plan shall be deemed to represent, warrant and agree that (i) none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any fiduciary or other person investing the assets of the Plan (“Plan Fiduciary”) in connection with its decision to invest in the Notes, and they are not otherwise acting as a fiduciary, as defined in Section 3(21) of ERISA or Section 4975(e)(3) of the Code, to the Plan or the Plan Fiduciary in connection with the Plan’s acquisition of the Notes (unless a statutory or administrative exemption applies (all of the applicable conditions of which are satisfied) or the transaction is not otherwise prohibited); and (ii) the Plan Fiduciary is exercising its own independent judgment in evaluating the investment in the Notes."
-                },
-                {
-                    "pageNumber": 356,
-                    "pageText": "ERISA imposes certain requirements on “employee benefit plans” (as defined in ERISA) subject to Title I of ERISA, including entities such as collective investment funds and separate accounts whose underlying assets include the assets of such plans (collectively, “ERISA Plans”) and on those persons who are fiduciaries with respect to ERISA Plans. Section 406 of ERISA and Section 4975 of the Code, prohibit certain transactions involving the assets of an ERISA Plan (Section 4975 of the Code also imposes prohibitions for certain plans that are not subject to Title I of ERISA but which are subject to Section 4975 of the Code, such as individual retirement accounts (together with ERISA Plans, “Plans”)) and certain persons (referred to as “parties in interest” or “disqualified persons”) having certain relationships to such Plans,"
-                },
-                {
-                    "pageNumber": 356,
-                    "pageText": "plans (as defined in Section 3(33) of ERISA), (collectively, “Other Plans”) while not subject to the fiduciary responsibility provisions of ERISA or the provisions of Section 4975 of the Code, may nevertheless be subject to other laws substantially similar to such provisions (“Similar Laws”). Thus, a fiduciary or other person considering the purchase or holding of the Notes for any Plan or Other Plan should consider whether such purchase or holding might constitute or result in a non-exempt prohibited transaction under ERISA or Section 4975 of the Code, or a violation of any Similar Law, as applicable. Unless otherwise specified in the relevant Pricing Supplement, the Notes may not be purchased or held by or with “plan assets” of any Plan or Other Plan, unless such purchase and holding qualifies for exemptive relief from the prohibited transaction rules under ERISA or Section 4975 of the Code. Certain statutory or administrative exemptions may"
-                },
-                {
-                    "pageNumber": 357,
-                    "pageText": "or any Similar Laws. The sale of any Notes to any Plan or Other Plan is in no respect a representation by the Issuer or any of its affiliates or representatives that such an investment is appropriate or meets all relevant legal requirements with respect to investments by Plans or Other Plans generally or any particular Plan or Other Plan. Accordingly, each fiduciary or other person considering an investment in the Notes for any Plan or Other Plan should consult with its legal advisor concerning an investment in, or any transaction involving, the Notes."
-                }
-            ]
+          "pageNumber": 341,
+          "pageText": "or Section 4975 of the Code (or in a violation of any Similar Law or other applicable law) unless an exemption is available (and all conditions have been satisfied) or (B) a similar violation under any applicable Similar Laws. Each purchaser or transferee that is a Plan shall be deemed to represent, warrant and agree that (i) none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any Plan Fiduciary in connection with its decision to invest in the Notes, and they are not otherwise acting as a fiduciary, as defined in Section 3(21) of ERISA or Section 4975(e)(3) of the Code, to the Plan or the Plan Fiduciary in connection with the Plan’s acquisition of the Notes (unless a statutory or administrative exemption applies (all of the applicable conditions"
         }
-    ],
-    "final_decision": {
-        "isERISAEligible": true,
-        "confidenceScore": 0.85,
-        "reasoning": "The structured outputs from the rules indicate that the issuer qualifies as an 'operating company' under ERISA, providing an exception to the 'look-through' treatment of plan assets (Rule 3). Additionally, there are several Prohibited Transaction Class Exemptions (PTCEs) available (Rule 5), which can provide relief for certain transactions involving Plans. While there are fiduciary burdens and restrictions (Rule 10), the presence of these exemptions and the operating company status suggest that the investment is ERISA eligible. The confidence score is set at 0.85, reflecting a high level of certainty based on the clear applicability of exemptions and the operating company exception.",
-        "supportingRules": [
-            3,
-            5,
-            10
-        ]
+      ]
+    },
+    {
+      "ruleName": "Security Type",
+      "securityType": "Registered Notes",
+      "details": "The context describes various forms of Registered Notes, including Definitive Registered Notes, Regulation S Global Registered Notes, and Rule 144A Global Registered Notes. These notes are issued in registered form and are not exchangeable for Bearer Notes.",
+      "evidence": [
+        {
+          "pageNumber": 178,
+          "pageText": "definitive notes in registered form (“Definitive Registered Notes”); or (ii) one or more unrestricted global notes (“Regulation S Global Registered Note(s)”) in the case of Registered Notes sold outside the United States to non-U.S. persons in reliance on Regulation S (“Regulation S Registered Notes”) and/or one or more restricted global notes (“Rule 144A Global Registered Note(s)”) in the case of Registered Notes sold to QIBs in reliance on Rule 144A (“Rule 144A Registered Notes”),"
+        },
+        {
+          "pageNumber": 198,
+          "pageText": "Form of Registered Notes Notes issued in registered form (“Registered Notes”) will be in substantially the form (subject to amendment and completion) scheduled to the Agency Agreement. Registered Notes will not be exchangeable for Bearer Notes. The Registered Notes sold pursuant to Rule 144A under the United States Securities Act of 1933, as amended (the “Securities Act”) initially will be evidenced by one or more Notes in registered, global form without interest coupons (collectively, the “Rule 144A Global Registered Notes”)."
+        }
+      ]
+    },
+    {
+      "ruleName": "US Publicly Offered",
+      "isPubliclyOfferedSecurity": false,
+      "details": null,
+      "evidence": []
+    },
+    {
+      "ruleName": "Explicit ERISA Prohibited",
+      "isExplicitlyExcluded": false,
+      "details": null,
+      "evidence": []
+    },
+    {
+      "ruleName": "Plan Asset Exceptions",
+      "planAssetExceptionAvailable": true,
+      "exceptionsAvailable": [
+        "Operating Company Exception"
+      ],
+      "details": "The issuer considers itself to qualify as an 'operating company' under ERISA, which is an exception to the 'look-through' treatment of plan assets. This exception applies to companies primarily engaged in the production or sale of products or services, rather than the investment of capital.",
+      "evidence": [
+        {
+          "pageNumber": 356,
+          "pageText": "There is an exception for an 'operating company', which includes a company primarily engaged directly or through majority-owned subsidiaries in the production or sale of products or services (other than the investment of capital). The Issuer considers itself to qualify, and intends to operate so as to continue to qualify, as an 'operating company' under ERISA."
+        }
+      ]
+    },
+    {
+      "ruleName": "Contemplated Transactions",
+      "contemplatedTransactions": [
+        "Issuance",
+        "Resale",
+        "Over-allotment",
+        "Listing",
+        "Trading",
+        "Transfer Restrictions"
+      ],
+      "transactionDetails": [
+        {
+          "transaction": "Issuance",
+          "impact": "The issuance of Notes and Conversion Shares, including the appointment of a Settlement Shares Offer Agent for conducting the Settlement Shares Offer.",
+          "evidence": [
+            {
+              "pageNumber": 283,
+              "pageText": "Prior to the date of the Automatic Conversion Settlement Notice, the Issuer shall appoint a placement agent (the “Settlement Shares Offer Agent”) acting on behalf, and for the account, of the Noteholders to conduct an offering of the Conversion Shares."
+            }
+          ]
+        },
+        {
+          "transaction": "Resale",
+          "impact": "Resale of Notes within the United States to QIBs or outside the United States to non-U.S. persons, in compliance with specific regulations.",
+          "evidence": [
+            {
+              "pageNumber": 340,
+              "pageText": "It will not reoffer, resell, pledge or otherwise transfer such Notes except (A) within the United States to a QIB in a transaction complying with Rule 144A or (B) outside the United States to a non-U.S. person, in compliance with Rule 903 or 904 of Regulation S."
+            }
+          ]
+        },
+        {
+          "transaction": "Over-allotment",
+          "impact": "Dealers may over-allot Notes or effect transactions to support the market price of the Notes.",
+          "evidence": [
+            {
+              "pageNumber": 5,
+              "pageText": "The Dealer or Dealers (if any) named as the stabilising manager(s) may over-allot Notes or effect transactions with a view to supporting the market price of the Notes at a level higher than that which might otherwise prevail."
+            }
+          ]
+        },
+        {
+          "transaction": "Listing",
+          "impact": "Conversion Shares will be admitted to listing and trading on the Relevant Stock Exchange.",
+          "evidence": [
+            {
+              "pageNumber": 282,
+              "pageText": "Conversion Shares, as the case may be, will be admitted to listing and trading on the Relevant Stock Exchange."
+            }
+          ]
+        },
+        {
+          "transaction": "Trading",
+          "impact": "Conversion Shares will be traded on the Relevant Stock Exchange.",
+          "evidence": [
+            {
+              "pageNumber": 282,
+              "pageText": "Conversion Shares, as the case may be, will be admitted to listing and trading on the Relevant Stock Exchange."
+            }
+          ]
+        },
+        {
+          "transaction": "Transfer Restrictions",
+          "impact": "Restrictions on the transfer of Notes, including compliance with Rule 144A and Regulation S.",
+          "evidence": [
+            {
+              "pageNumber": 340,
+              "pageText": "It will not reoffer, resell, pledge or otherwise transfer such Notes except (A) within the United States to a QIB in a transaction complying with Rule 144A or (B) outside the United States to a non-U.S. person, in compliance with Rule 903 or 904 of Regulation S."
+            },
+            {
+              "pageNumber": 339,
+              "pageText": "SO LONG AS THIS SECURITY IS ELIGIBLE FOR RESALE PURSUANT TO RULE 144A UNDER THE SECURITIES ACT (“RULE 144A”), TO A PERSON WHO THE SELLER REASONABLY BELIEVES IS A QUALIFIED INSTITUTIONAL BUYER (AS DEFINED IN RULE 144A) IN ACCORDANCE WITH RULE 144A."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ruleName": "Prohibited Transaction Exemptions (PTEs)",
+      "hasProhibitedTransactionExemptions": true,
+      "prohibitedTransactionExemptions": [
+        "PTCE 84-14",
+        "PTCE 96-23",
+        "PTCE 91-38",
+        "PTCE 90-1",
+        "PTCE 95-60"
+      ],
+      "details": "The context mentions several Prohibited Transaction Class Exemptions (PTEs) that may provide relief for transactions involving the purchase and holding of Notes by a Plan under ERISA or Section 4975 of the Code.",
+      "evidence": [
+        {
+          "pageNumber": 356,
+          "pageText": "prohibited transaction rules under ERISA or Section 4975 of the Code. Certain statutory or administrative exemptions may provide such relief to the purchase and holding of the Notes by a Plan, including: Prohibited Transaction Class Exemption (“PTCE”) 84-14 (certain transactions determined by an independent qualified professional asset manager), PTCE 96-23 (certain transactions determined by an in-house professional asset manager), PTCE 91-38 (certain transactions involving bank collective investment funds), PTCE 90-1 (certain transactions involving insurance company pooled separate accounts) and PTCE 95-60 (certain transactions involving insurance company general accounts)."
+        }
+      ]
+    },
+    {
+      "ruleName": "US Investor Qualified Institutional Buyers (QIBs) Requirement",
+      "qibRequired": true,
+      "details": "The prospectus requires U.S. investors to be Qualified Institutional Buyers (QIBs) under Rule 144A for purchasing the Notes within the United States.",
+      "evidence": [
+        {
+          "pageNumber": 2,
+          "pageText": "The Notes may be offered for sale only (i) in the United States, to qualified institutional buyers (“QIBs”) within the meaning of, and in reliance on, Rule 144A under the Securities Act (“Rule 144A”) or another available exemption from, or in a transaction not subject to, the registration requirements of the Securities Act."
+        },
+        {
+          "pageNumber": 4,
+          "pageText": "Unless otherwise specified in any supplement to this Programme Document, each Series of Notes is initially being privately placed exclusively to persons reasonably believed by the Dealers to be QIBs within the meaning of Rule 144A or in other transactions exempt from registration in accordance with Regulation S."
+        },
+        {
+          "pageNumber": 1,
+          "pageText": "Confirmation of your representation: In order to be eligible to view the attached Programme Document or make an investment decision with respect to the securities being offered, prospective investors must be either (1) qualified institutional buyers (“QIBs”) (within the meaning of Rule 144A (“Rule 144A”) under the Securities Act) or (2) non-U.S. persons (as defined in Regulation S under the Securities Act (“Regulation S”)) located outside the United States."
+        }
+      ]
+    },
+    {
+      "ruleName": "U.S. Domiciled Investors Requirements",
+      "accreditedInvestorRequired": false,
+      "details": null,
+      "evidence": []
+    },
+    {
+      "ruleName": "Domicile & Participation Restrictions",
+      "hasDomicileParticipationRestriction": true,
+      "restrictedDomiciles": [
+        "United States",
+        "Canada",
+        "United Kingdom",
+        "Ireland",
+        "European Economic Area (EEA)"
+      ],
+      "details": "The Notes are subject to various domicile and participation restrictions, including prohibitions on sales to U.S. persons, restrictions in Canada requiring sales only to accredited investors, and specific restrictions in the United Kingdom, Ireland, and the EEA.",
+      "evidence": [
+        {
+          "pageNumber": 2,
+          "pageText": "Subject to certain exceptions, the Notes may not be offered or sold directly or indirectly within the United States or to or for the account or benefit of U.S. persons, as defined in Regulation S under the Securities Act (“Regulation S”)."
+        },
+        {
+          "pageNumber": 3,
+          "pageText": "Prohibition of Sales to UK Retail Investors."
+        },
+        {
+          "pageNumber": 4,
+          "pageText": "In addition, there are certain restrictions on the offer, sale and transfer of the Notes in the United Kingdom and Ireland and such other restrictions as may be required in connection with the offer and sale of a particular Series of Notes."
+        },
+        {
+          "pageNumber": 343,
+          "pageText": "None of the Issuer, the Fiscal Agent and the Dealers represent that the Notes may at any time lawfully be sold in compliance with any applicable registration or other requirements in any jurisdiction, or pursuant to any exemption available thereunder."
+        },
+        {
+          "pageNumber": 344,
+          "pageText": "In addition, Notes in bearer form having a maturity of more than one year are subject to U.S. tax law requirements and may not be offered, sold or delivered within the United States or its possessions or to a United States person, except in certain transactions permitted by U.S. Treasury regulations."
+        },
+        {
+          "pageNumber": 345,
+          "pageText": "The Notes may be sold only to purchasers purchasing, or deemed to be purchasing, as principal that are accredited investors, as defined in National Instrument 45-106 Prospectus Exemptions or subsection 73.3(1) of the Securities Act (Ontario), and are permitted clients, as defined in National Instrument 31-103 Registration Requirements, Exemptions and Ongoing Registrant Obligations."
+        }
+      ]
+    },
+    {
+      "ruleName": "Unconditional Domicile Restrictions",
+      "hasUnconditionalDomicileRestrictions": false,
+      "unconditionalRestrictedDomiciles": [],
+      "details": null,
+      "evidence": []
+    },
+    {
+      "ruleName": "ERISA Representations and Fiduciary Responsibility",
+      "hasFiduciaryBurden": true,
+      "details": "The prospectus places a fiduciary burden on investors by requiring them to ensure compliance with ERISA and similar laws, and to avoid prohibited transactions unless an exemption applies. Investors are deemed to represent and warrant that they are not relying on the issuer or its affiliates for fiduciary advice and that they are independently evaluating the investment.",
+      "evidence": [
+        {
+          "pageNumber": 340,
+          "pageText": "Each purchaser or transferee that is a Plan shall be deemed to represent, warrant and agree that (i) none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any Plan Fiduciary (as defined below) in connection with its decision to invest in the Notes, and they are not otherwise acting as a fiduciary, as defined in Section 3(21) of ERISA or Section 4975(e)(3) of the Code, to the Plan or the Plan Fiduciary in connection with"
+        },
+        {
+          "pageNumber": 341,
+          "pageText": "Each purchaser or transferee that is a Plan shall be deemed to represent, warrant and agree that (i) none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any Plan Fiduciary in connection with its decision to invest in the Notes, and they are not otherwise acting as a fiduciary, as defined in Section 3(21) of ERISA or Section 4975(e)(3) of the Code, to the Plan or the Plan Fiduciary in connection with the Plan’s acquisition of the Notes (unless a statutory or administrative exemption applies (all of the applicable conditions"
+        },
+        {
+          "pageNumber": 357,
+          "pageText": "Each purchaser or transferee that is a Plan shall be deemed to represent, warrant and agree that (i) none of the Issuer, the Arranger and the Dealers, nor any of their affiliates, has provided, and none of them will provide, any investment advice within the meaning of Section 3(21) of ERISA to it or to any fiduciary or other person investing the assets of the Plan (“Plan Fiduciary”) in connection with its decision to invest in the Notes, and they are not otherwise acting as a fiduciary, as defined in Section 3(21) of ERISA or Section 4975(e)(3) of the Code, to the Plan or the Plan Fiduciary in connection with the Plan’s acquisition of the Notes (unless a statutory or administrative exemption applies (all of the applicable conditions of which are satisfied) or the transaction is not otherwise prohibited); and (ii) the Plan Fiduciary is exercising its own independent judgment in evaluating the investment in the Notes."
+        },
+        {
+          "pageNumber": 356,
+          "pageText": "ERISA imposes certain requirements on “employee benefit plans” (as defined in ERISA) subject to Title I of ERISA, including entities such as collective investment funds and separate accounts whose underlying assets include the assets of such plans (collectively, “ERISA Plans”) and on those persons who are fiduciaries with respect to ERISA Plans. Section 406 of ERISA and Section 4975 of the Code, prohibit certain transactions involving the assets of an ERISA Plan (Section 4975 of the Code also imposes prohibitions for certain plans that are not subject to Title I of ERISA but which are subject to Section 4975 of the Code, such as individual retirement accounts (together with ERISA Plans, “Plans”)) and certain persons (referred to as “parties in interest” or “disqualified persons”) having certain relationships to such Plans,"
+        },
+        {
+          "pageNumber": 356,
+          "pageText": "plans (as defined in Section 3(33) of ERISA), (collectively, “Other Plans”) while not subject to the fiduciary responsibility provisions of ERISA or the provisions of Section 4975 of the Code, may nevertheless be subject to other laws substantially similar to such provisions (“Similar Laws”). Thus, a fiduciary or other person considering the purchase or holding of the Notes for any Plan or Other Plan should consider whether such purchase or holding might constitute or result in a non-exempt prohibited transaction under ERISA or Section 4975 of the Code, or a violation of any Similar Law, as applicable. Unless otherwise specified in the relevant Pricing Supplement, the Notes may not be purchased or held by or with “plan assets” of any Plan or Other Plan, unless such purchase and holding qualifies for exemptive relief from the prohibited transaction rules under ERISA or Section 4975 of the Code. Certain statutory or administrative exemptions may"
+        },
+        {
+          "pageNumber": 357,
+          "pageText": "or any Similar Laws. The sale of any Notes to any Plan or Other Plan is in no respect a representation by the Issuer or any of its affiliates or representatives that such an investment is appropriate or meets all relevant legal requirements with respect to investments by Plans or Other Plans generally or any particular Plan or Other Plan. Accordingly, each fiduciary or other person considering an investment in the Notes for any Plan or Other Plan should consult with its legal advisor concerning an investment in, or any transaction involving, the Notes."
+        }
+      ]
     }
+  ],
+  "final_decision": {
+    "isERISAEligible": true,
+    "confidenceScore": 0.85,
+    "reasoning": "The document contains ERISA-related language, indicating that the issuer acknowledges ERISA considerations. The issuer has disclosed several Prohibited Transaction Exemptions (PTEs) that may provide relief for transactions involving the purchase and holding of Notes by a Plan. Additionally, the issuer considers itself to qualify as an 'operating company,' which is an exception to the 'look-through' treatment of plan assets under ERISA. However, the prospectus places a fiduciary burden on investors, requiring them to ensure compliance with ERISA and similar laws, and to avoid prohibited transactions unless an exemption applies. The issuer does not provide assurances that these exemptions will apply, and the applicability of exemptions is investor-specific. Therefore, Plans may be permitted to invest if a fiduciary determines that an exemption applies and all conditions are met.",
+    "supportingRules": [
+      1,
+      5,
+      7,
+      12
+    ]
+  }
 }
